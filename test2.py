@@ -1,7 +1,7 @@
 from random import randrange
 import os
 
-for i in range(100):
+for i in range(20):
 	rand_day = randrange(1,30)
 	rand_times = randrange(1,10)
 	for i in range(rand_times):
